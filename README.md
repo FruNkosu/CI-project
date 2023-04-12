@@ -1,2 +1,2 @@
-# CI-projetc
+# CI-project
 Continuous integration project
